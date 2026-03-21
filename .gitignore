@@ -1,0 +1,35 @@
+
+
+```gitignore
+# Power BI
+.pbix.userstate
+.pbit
+ReportServer
+
+# IDE
+.vscode
+.idea
+.swp
+.swo
+~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+.log
+
+# Environment
+.env
+.env.local
+
+# Database credentials
+secrets
+credentials.json
+
+# Temporary files
+tmp
+temp
+.tmp
