@@ -157,7 +157,7 @@ BI Дашборд
 Быстрый старт
 
 Клонирование репозитория:
-git clone [https://github.com/ekaterina-thmgc/pagila-postgres-analytics.git](https://github.com/ekaterina-thmgc/pagila-postgres-analytics.git)
+git clone [https://github.com/ekaterina-thmgc/pagila_postgres_analytic](https://github.com/ekaterina-thmgc/pagila_postgres_analytic)
 
 Развёртывание базы данных:
 psql -U postgres -d analytic -f schema/pagila-schema.sql
